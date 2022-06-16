@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+}
+
+.row {
+    margin: 0;
+}
+
+.btn {
+    margin: 25px;
+    font-size: 25px;
+}
+
+.field {
+    margin: 50px 0;
+    transform: scale(1, -1);
+}
+
+.score {
+    margin: 50px 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+.column {
+    width: 50px;
+    background-color: green;
+    cursor: pointer;
+}
